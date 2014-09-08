@@ -31,6 +31,11 @@ public class guavaOptionalDemo {
 		System.out.println(optionalStringVal().orNull());
 		System.out.println(((test)optionalObjVal().orNull()).name);
 		System.out.println(optionalNull().orNull());
+		/** 
+		*test
+		*hello guava
+		*null
+		**/
 	}
 }
 
